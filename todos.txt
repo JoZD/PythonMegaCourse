@@ -1,0 +1,3 @@
+clean
+feed the cat
+make the bed
